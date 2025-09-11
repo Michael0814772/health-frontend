@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: https://Health-Frontend.dev/projects/bdf44552-c7cb-4bdf-b7a8-ad9c1d1eea30
+**URL**: https://health-frontend567uhuyu.netlify.app/
 
 ## How can I edit this code?
 
@@ -10,7 +10,7 @@ There are several ways of editing your application.
 
 **Use Health-Frontend**
 
-Simply visit the [Health-Frontend Project](https://Health-Frontend.dev/projects/bdf44552-c7cb-4bdf-b7a8-ad9c1d1eea30) and start prompting.
+Simply visit the [Health-Frontend Project](https://health-frontend567uhuyu.netlify.app/) and start prompting.
 
 Changes made via Health-Frontend will be committed automatically to this repo.
 
@@ -62,7 +62,7 @@ This project is built with:
 
 ## How can I deploy this project?
 
-Simply open [Health-Frontend](https://Health-Frontend.dev/projects/bdf44552-c7cb-4bdf-b7a8-ad9c1d1eea30) and click on Share -> Publish.
+Simply open [Health-Frontend](https://health-frontend567uhuyu.netlify.app/) and click on Share -> Publish.
 
 ## Can I connect a custom domain to my Health-Frontend project?
 
