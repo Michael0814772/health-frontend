@@ -6,7 +6,7 @@ import { Heart, Activity, Moon, Footprints, Scale, Droplet } from "lucide-react"
 // Default user health data
 const healthData = {
   user: {
-    name: "Sarah Johnson",
+    name: "OFFORDILE, FRANCISCO CHUKWUKA (GROUP 16)",
     age: 32,
     lastUpdated: "2 minutes ago"
   },
